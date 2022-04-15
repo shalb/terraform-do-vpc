@@ -6,7 +6,7 @@ Terraform module that creates new or use existents VPC in do cloud.
 
 | Name | Version |
 |------|---------|
-| terraform | ~> 1.0.0 |
+| terraform | => 1.0.0 |
 | digitalocean | ~> 2.4.0 |
 
 ## Providers
